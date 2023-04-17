@@ -13,7 +13,7 @@ const EXAMPLES: ExampleModel[] = [
         value: "Come sono distribuite geograficamente le sedi di Contoso nel mondo?"
     },
     { text: "Come funziona la sua architettura di rete?", value: "Come funziona la sua architettura di rete?" },
-    { text: "Come si occupa della protezione dei dati?", value: "Come si occupa della protezione dei dati?" }
+    { text: "Cosa fa Contoso per proteggere i propri dati?", value: "Cosa fa Contoso per proteggere i propri dati?" }
 ];
 
 interface Props {
